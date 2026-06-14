@@ -4,7 +4,7 @@ import pandas as pd
 
 st.set_page_config(
     page_title="Predicciones - Mundial 2026",
-    page_icon="🏆",
+    page_icon="",
     layout="wide",
     initial_sidebar_state="expanded"
 )
