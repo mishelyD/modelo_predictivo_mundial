@@ -29,7 +29,7 @@ with st.sidebar:
     st.write("**Motor Predictivo:**")
     st.info("Algoritmo: Random Forest\n\nPrecisión de Validación: 54.09%")
 
-st.title("PREDICCIONES DE PARTIDOS - MUNDIAL 2026")
+st.title("⚽PREDICCIONES DE PARTIDOS - MUNDIAL 2026⚽")
 st.markdown("*Sistema de analítica predictiva diseñado para proyectar resultados mediante Machine Learning.*")
 st.divider()
 
