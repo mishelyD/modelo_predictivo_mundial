@@ -47,15 +47,18 @@ with col3:
 
 st.markdown("<br>", unsafe_allow_html=True) 
 # --- TABLA ESTILIZADA ---
-st.subheader("Cartelera de Pronósticos")
+# --- 6. TABLA ESTILIZADA ---
+st.subheader("📈 Cartelera y Precisión de Pronósticos")
 
-# Configuramos la tabla para que se vea impecable
+# Configuramos la tabla para mostrar los aciertos
 st.dataframe(
-    partidos_del_dia[['home_team', 'away_team', 'prediccion_final']],
+    partidos_del_dia[['home_team', 'away_team', 'prediccion_final', 'resultado_real', 'estado_prediccion']],
     column_config={
-        "home_team": "EQUIPO 1",
-        "away_team": "EQUIPO 2",
-        "prediccion_final": "PRONOSTICO"
+        "home_team": "Equipo 1",
+        "away_team": "Equipo 2",
+        "prediccion_final": "Pronostico",
+        "resultado_real": "Resultado Real",
+        "estado_prediccion": "Evaluación"
     },
     hide_index=True, 
     use_container_width=True 

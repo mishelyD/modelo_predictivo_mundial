@@ -1,65 +1,71 @@
-date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,match_id,target,home_team_code,away_team_code,racha_local,goles_favor_local,goles_contra_local,racha_visitante,goles_favor_visitante,goles_contra_visitante,pred_codigo,prediccion_final
-2026-06-14,Germany,Curaçao,,,FIFA World Cup,Houston,United States,True,21466,0,99,65,15.0,3.2,0.2,5.0,1.8,1.6,1,Gana Germany
-2026-06-14,Ivory Coast,Ecuador,,,FIFA World Cup,Philadelphia,United States,True,21467,0,131,77,10.0,2.0,1.2,7.0,0.2,0.0,1,Gana Ivory Coast
-2026-06-14,Netherlands,Japan,,,FIFA World Cup,Arlington,United States,True,21468,0,183,133,13.0,3.2,0.6,13.0,3.2,0.8,0,Empate
-2026-06-14,Sweden,Tunisia,,,FIFA World Cup,Guadalupe,Mexico,True,21469,0,256,274,7.0,1.6,1.8,8.0,2.0,1.2,1,Gana Sweden
-2026-06-15,Belgium,Egypt,,,FIFA World Cup,Seattle,United States,True,21470,0,26,78,11.0,3.6,0.6,8.0,1.2,0.8,1,Gana Belgium
-2026-06-15,Iran,New Zealand,,,FIFA World Cup,Inglewood,United States,True,21471,0,124,185,6.0,1.0,0.6,3.0,1.2,1.8,1,Gana Iran
-2026-06-15,Spain,Cape Verde,,,FIFA World Cup,Atlanta,United States,True,21472,0,252,46,13.0,3.6,0.4,6.0,1.4,1.2,1,Gana Spain
-2026-06-15,Saudi Arabia,Uruguay,,,FIFA World Cup,Miami Gardens,United States,True,21473,0,233,286,9.0,1.4,1.0,8.0,1.0,0.4,1,Gana Saudi Arabia
-2026-06-16,France,Senegal,,,FIFA World Cup,East Rutherford,United States,True,21474,0,92,236,13.0,2.8,0.8,12.0,1.6,0.8,1,Gana France
-2026-06-16,Iraq,Norway,,,FIFA World Cup,Foxborough,United States,True,21475,0,125,194,9.0,1.2,1.0,15.0,5.0,0.6,0,Empate
-2026-06-16,Argentina,Algeria,,,FIFA World Cup,Kansas City,United States,True,21476,0,12,4,10.0,1.8,0.6,12.0,1.6,0.6,1,Gana Argentina
-2026-06-16,Austria,Jordan,,,FIFA World Cup,Santa Clara,United States,True,21477,0,17,135,10.0,3.0,0.6,12.0,2.0,0.8,1,Gana Austria
-2026-06-17,Portugal,DR Congo,,,FIFA World Cup,Houston,United States,True,21478,0,209,69,10.0,3.0,1.4,10.0,1.2,0.4,1,Gana Portugal
-2026-06-17,Uzbekistan,Colombia,,,FIFA World Cup,Mexico City,Mexico,True,21479,0,287,55,11.0,1.6,0.2,9.0,2.4,1.2,1,Gana Uzbekistan
-2026-06-17,England,Croatia,,,FIFA World Cup,Arlington,United States,True,21480,0,81,63,15.0,3.2,0.0,13.0,2.6,0.6,1,Gana England
-2026-06-17,Ghana,Panama,,,FIFA World Cup,Toronto,Canada,True,21481,0,100,201,10.0,1.6,0.6,11.0,1.8,0.8,1,Gana Ghana
-2026-06-18,Czech Republic,South Africa,,,FIFA World Cup,Atlanta,United States,True,21482,0,67,248,5.0,2.4,1.6,6.0,1.2,1.6,1,Gana Czech Republic
-2026-06-18,Mexico,South Korea,,,FIFA World Cup,Zapopan,Mexico,False,21483,0,171,249,13.0,1.4,0.2,11.0,2.0,0.6,1,Gana Mexico
-2026-06-18,Switzerland,Bosnia and Herzegovina,,,FIFA World Cup,Inglewood,United States,True,21484,0,257,34,8.0,1.75,0.5,7.0,1.4,1.0,1,Gana Switzerland
-2026-06-18,Canada,Qatar,,,FIFA World Cup,Vancouver,Canada,False,21485,0,45,212,9.0,2.2,0.6,4.0,0.75,1.5,1,Gana Canada
-2026-06-19,Scotland,Morocco,,,FIFA World Cup,Foxborough,United States,True,21486,0,234,178,9.0,2.75,1.75,10.0,1.5,0.0,0,Empate
-2026-06-19,Brazil,Haiti,,,FIFA World Cup,Philadelphia,United States,True,21487,0,36,115,6.0,1.5,1.0,9.0,1.5,0.75,0,Empate
-2026-06-19,United States,Australia,,,FIFA World Cup,Seattle,United States,False,21488,0,284,16,10.0,2.2,1.4,12.0,2.5,0.5,1,Gana United States
-2026-06-19,Turkey,Paraguay,,,FIFA World Cup,Santa Clara,United States,True,21489,0,275,204,10.0,1.5,0.5,5.0,0.8,1.4,1,Gana Turkey
-2026-06-20,Germany,Ivory Coast,,,FIFA World Cup,Toronto,Canada,True,21490,0,99,131,12.0,3.25,0.0,7.0,2.25,1.5,1,Gana Germany
-2026-06-20,Ecuador,Curaçao,,,FIFA World Cup,Kansas City,United States,True,21491,0,77,65,6.0,0.25,0.0,4.0,2.0,1.75,1,Gana Ecuador
-2026-06-20,Netherlands,Sweden,,,FIFA World Cup,Houston,United States,True,21492,0,183,256,10.0,3.25,0.25,7.0,2.0,2.0,1,Gana Netherlands
-2026-06-20,Tunisia,Japan,,,FIFA World Cup,Guadalupe,Mexico,True,21493,0,274,133,5.0,1.75,1.5,10.0,2.5,1.0,0,Empate
-2026-06-21,Belgium,Iran,,,FIFA World Cup,Inglewood,United States,True,21494,0,26,124,8.0,3.0,0.75,5.0,0.75,0.25,1,Gana Belgium
-2026-06-21,New Zealand,Egypt,,,FIFA World Cup,Vancouver,Canada,True,21495,0,185,78,3.0,1.25,1.75,7.0,1.5,1.0,2,Gana Egypt
-2026-06-21,Spain,Saudi Arabia,,,FIFA World Cup,Atlanta,United States,True,21496,0,252,233,10.0,3.0,0.5,6.0,1.25,1.0,1,Gana Spain
-2026-06-21,Uruguay,Cape Verde,,,FIFA World Cup,Miami Gardens,United States,True,21497,0,286,46,7.0,1.25,0.5,3.0,1.0,1.5,1,Gana Uruguay
-2026-06-22,France,Iraq,,,FIFA World Cup,Philadelphia,United States,True,21498,0,92,125,10.0,3.0,0.75,6.0,1.0,1.0,1,Gana France
-2026-06-22,Norway,Senegal,,,FIFA World Cup,East Rutherford,United States,True,21499,0,194,236,12.0,6.0,0.75,9.0,1.25,1.0,1,Gana Norway
-2026-06-22,Argentina,Austria,,,FIFA World Cup,Arlington,United States,True,21500,0,12,17,7.0,1.25,0.5,7.0,3.25,0.5,1,Gana Argentina
-2026-06-22,Jordan,Algeria,,,FIFA World Cup,Santa Clara,United States,True,21501,0,135,4,9.0,1.75,0.75,9.0,1.25,0.75,1,Gana Jordan
-2026-06-23,Portugal,Uzbekistan,,,FIFA World Cup,Houston,United States,True,21502,0,209,287,7.0,3.0,1.25,8.0,1.25,0.25,1,Gana Portugal
-2026-06-23,Colombia,DR Congo,,,FIFA World Cup,Zapopan,Mexico,True,21503,0,55,69,8.0,2.5,1.0,7.0,1.25,0.5,1,Gana Colombia
-2026-06-23,England,Ghana,,,FIFA World Cup,Foxborough,United States,True,21504,0,81,100,12.0,3.5,0.0,9.0,1.75,0.5,1,Gana England
-2026-06-23,Panama,Croatia,,,FIFA World Cup,Toronto,Canada,True,21505,0,201,63,10.0,2.0,0.75,10.0,2.25,0.75,1,Gana Panama
-2026-06-24,Mexico,Czech Republic,,,FIFA World Cup,Mexico City,Mexico,False,21506,0,171,67,12.0,1.75,0.25,5.0,2.75,1.5,1,Gana Mexico
-2026-06-24,South Africa,South Korea,,,FIFA World Cup,Guadalupe,Mexico,True,21507,0,248,249,3.0,1.0,1.75,10.0,2.25,0.5,0,Empate
-2026-06-24,Canada,Switzerland,,,FIFA World Cup,Vancouver,Canada,False,21508,0,45,257,6.0,1.25,0.75,5.0,1.6666666666666667,0.6666666666666666,1,Gana Canada
-2026-06-24,Bosnia and Herzegovina,Qatar,,,FIFA World Cup,Seattle,United States,True,21509,0,34,212,4.0,1.0,1.0,1.0,0.3333333333333333,1.6666666666666667,1,Gana Bosnia and Herzegovina
-2026-06-24,Scotland,Brazil,,,FIFA World Cup,Miami Gardens,United States,True,21510,0,234,36,6.0,2.6666666666666665,2.0,3.0,1.6666666666666667,1.3333333333333333,1,Gana Scotland
-2026-06-24,Morocco,Haiti,,,FIFA World Cup,Atlanta,United States,True,21511,0,178,115,7.0,1.6666666666666667,0.0,6.0,1.0,1.0,1,Gana Morocco
-2026-06-25,United States,Turkey,,,FIFA World Cup,Inglewood,United States,False,21512,0,284,275,7.0,2.25,1.5,7.0,1.3333333333333333,0.6666666666666666,1,Gana United States
-2026-06-25,Paraguay,Australia,,,FIFA World Cup,Santa Clara,United States,True,21513,0,204,16,5.0,1.0,1.5,9.0,3.0,0.6666666666666666,0,Empate
-2026-06-25,Curaçao,Ivory Coast,,,FIFA World Cup,Philadelphia,United States,True,21514,0,65,131,1.0,0.3333333333333333,2.3333333333333335,6.0,2.6666666666666665,1.6666666666666667,0,Empate
-2026-06-25,Ecuador,Germany,,,FIFA World Cup,East Rutherford,United States,True,21515,0,77,99,5.0,0.3333333333333333,0.0,9.0,3.0,0.0,1,Gana Ecuador
-2026-06-25,Japan,Sweden,,,FIFA World Cup,Arlington,United States,True,21516,0,133,256,9.0,2.6666666666666665,0.6666666666666666,7.0,2.3333333333333335,1.3333333333333333,1,Gana Japan
-2026-06-25,Tunisia,Netherlands,,,FIFA World Cup,Kansas City,United States,True,21517,0,274,183,2.0,1.3333333333333333,1.6666666666666667,7.0,3.0,0.3333333333333333,0,Empate
-2026-06-26,Egypt,Iran,,,FIFA World Cup,Seattle,United States,True,21518,0,78,124,4.0,1.0,1.0,5.0,1.0,0.0,1,Gana Egypt
-2026-06-26,New Zealand,Belgium,,,FIFA World Cup,Vancouver,Canada,True,21519,0,185,26,3.0,1.6666666666666667,2.0,7.0,4.0,1.0,1,Gana New Zealand
-2026-06-26,Cape Verde,Saudi Arabia,,,FIFA World Cup,Houston,United States,True,21520,0,46,233,2.0,1.3333333333333333,2.0,3.0,0.6666666666666666,1.0,1,Gana Cape Verde
-2026-06-26,Uruguay,Spain,,,FIFA World Cup,Zapopan,Mexico,True,21521,0,286,252,7.0,1.6666666666666667,0.0,7.0,3.3333333333333335,0.6666666666666666,1,Gana Uruguay
-2026-06-26,Norway,France,,,FIFA World Cup,Foxborough,United States,True,21522,0,194,92,9.0,4.333333333333333,0.6666666666666666,7.0,3.0,1.0,1,Gana Norway
-2026-06-26,Senegal,Iraq,,,FIFA World Cup,Toronto,Canada,True,21523,0,236,125,6.0,0.6666666666666666,1.0,3.0,0.6666666666666666,1.3333333333333333,0,Empate
-2026-06-27,Algeria,Austria,,,FIFA World Cup,Kansas City,United States,True,21524,0,4,17,6.0,1.3333333333333333,1.0,4.0,1.0,0.6666666666666666,1,Gana Algeria
-2026-06-27,Jordan,Argentina,,,FIFA World Cup,Arlington,United States,True,21525,0,135,12,6.0,1.3333333333333333,1.0,4.0,1.3333333333333333,0.6666666666666666,1,Gana Jordan
-2026-06-27,Colombia,Portugal,,,FIFA World Cup,Miami Gardens,United States,True,21526,0,55,209,7.0,3.3333333333333335,1.3333333333333333,4.0,3.6666666666666665,1.6666666666666667,1,Gana Colombia
-2026-06-27,DR Congo,Uzbekistan,,,FIFA World Cup,Atlanta,United States,True,21527,0,69,287,6.0,1.3333333333333333,0.3333333333333333,5.0,1.0,0.3333333333333333,1,Gana DR Congo
-2026-06-27,Panama,England,,,FIFA World Cup,East Rutherford,United States,True,21528,0,201,81,7.0,2.3333333333333335,1.0,9.0,3.0,0.0,0,Empate
-2026-06-27,Croatia,Ghana,,,FIFA World Cup,Philadelphia,United States,True,21529,0,63,100,9.0,3.0,1.0,6.0,2.0,0.6666666666666666,1,Gana Croatia
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,match_id,target,home_team_code,away_team_code,racha_local,goles_favor_local,goles_contra_local,racha_visitante,goles_favor_visitante,goles_contra_visitante,pred_codigo,prediccion_final,resultado_real,estado_prediccion
+2026-06-12,Canada,Bosnia and Herzegovina,1.0,1.0,FIFA World Cup,Toronto,Canada,False,21460,2,45,34,9.0,2.0,0.4,7.0,1.6,1.2,1,Gana Canada,Gana Bosnia and Herzegovina,❌ Falló
+2026-06-12,United States,Paraguay,4.0,1.0,FIFA World Cup,Inglewood,United States,False,21461,1,284,204,10.0,1.6,1.2,8.0,1.0,0.6,1,Gana United States,Gana United States,✅ Acertó
+2026-06-13,Qatar,Switzerland,1.0,1.0,FIFA World Cup,Santa Clara,United States,True,21462,2,212,257,5.0,0.6,1.2,11.0,2.0,0.4,2,Gana Switzerland,Gana Switzerland,✅ Acertó
+2026-06-13,Brazil,Morocco,1.0,1.0,FIFA World Cup,East Rutherford,United States,True,21463,2,36,178,7.0,1.2,0.8,13.0,1.8,0.0,2,Gana Morocco,Gana Morocco,✅ Acertó
+2026-06-13,Haiti,Scotland,0.0,1.0,FIFA World Cup,Foxborough,United States,True,21464,0,115,234,10.0,1.8,1.2,12.0,2.6,1.4,0,Empate,Empate,✅ Acertó
+2026-06-13,Australia,Turkey,2.0,0.0,FIFA World Cup,Vancouver,Canada,True,21465,1,16,275,15.0,2.4,0.6,13.0,2.0,0.6,1,Gana Australia,Gana Australia,✅ Acertó
+2026-06-14,Germany,Curaçao,7.0,1.0,FIFA World Cup,Houston,United States,True,21466,1,99,65,15.0,3.2,0.2,5.0,1.8,1.6,1,Gana Germany,Gana Germany,✅ Acertó
+2026-06-14,Ivory Coast,Ecuador,1.0,0.0,FIFA World Cup,Philadelphia,United States,True,21467,1,131,77,10.0,2.0,1.2,7.0,0.2,0.0,1,Gana Ivory Coast,Gana Ivory Coast,✅ Acertó
+2026-06-14,Netherlands,Japan,2.0,2.0,FIFA World Cup,Arlington,United States,True,21468,2,183,133,13.0,3.2,0.6,13.0,3.2,0.8,1,Gana Netherlands,Gana Japan,❌ Falló
+2026-06-14,Sweden,Tunisia,5.0,1.0,FIFA World Cup,Guadalupe,Mexico,True,21469,1,256,274,7.0,1.6,1.8,8.0,2.0,1.2,1,Gana Sweden,Gana Sweden,✅ Acertó
+2026-06-15,Belgium,Egypt,,,FIFA World Cup,Seattle,United States,True,21470,0,26,78,11.0,3.6,0.6,8.0,1.2,0.8,1,Gana Belgium,Empate,❌ Falló
+2026-06-15,Iran,New Zealand,,,FIFA World Cup,Inglewood,United States,True,21471,0,124,185,6.0,1.0,0.6,3.0,1.2,1.8,1,Gana Iran,Empate,❌ Falló
+2026-06-15,Spain,Cape Verde,,,FIFA World Cup,Atlanta,United States,True,21472,0,252,46,13.0,3.6,0.4,6.0,1.4,1.2,1,Gana Spain,Empate,❌ Falló
+2026-06-15,Saudi Arabia,Uruguay,,,FIFA World Cup,Miami Gardens,United States,True,21473,0,233,286,9.0,1.4,1.0,8.0,1.0,0.4,1,Gana Saudi Arabia,Empate,❌ Falló
+2026-06-16,France,Senegal,,,FIFA World Cup,East Rutherford,United States,True,21474,0,92,236,13.0,2.8,0.8,12.0,1.6,0.8,1,Gana France,Empate,❌ Falló
+2026-06-16,Iraq,Norway,,,FIFA World Cup,Foxborough,United States,True,21475,0,125,194,9.0,1.2,1.0,15.0,5.0,0.6,0,Empate,Empate,✅ Acertó
+2026-06-16,Argentina,Algeria,,,FIFA World Cup,Kansas City,United States,True,21476,0,12,4,10.0,1.8,0.6,12.0,1.6,0.6,1,Gana Argentina,Empate,❌ Falló
+2026-06-16,Austria,Jordan,,,FIFA World Cup,Santa Clara,United States,True,21477,0,17,135,10.0,3.0,0.6,12.0,2.0,0.8,1,Gana Austria,Empate,❌ Falló
+2026-06-17,Portugal,DR Congo,,,FIFA World Cup,Houston,United States,True,21478,0,209,69,10.0,3.0,1.4,10.0,1.2,0.4,1,Gana Portugal,Empate,❌ Falló
+2026-06-17,Uzbekistan,Colombia,,,FIFA World Cup,Mexico City,Mexico,True,21479,0,287,55,11.0,1.6,0.2,9.0,2.4,1.2,2,Gana Colombia,Empate,❌ Falló
+2026-06-17,England,Croatia,,,FIFA World Cup,Arlington,United States,True,21480,0,81,63,15.0,3.2,0.0,13.0,2.6,0.6,1,Gana England,Empate,❌ Falló
+2026-06-17,Ghana,Panama,,,FIFA World Cup,Toronto,Canada,True,21481,0,100,201,10.0,1.6,0.6,11.0,1.8,0.8,1,Gana Ghana,Empate,❌ Falló
+2026-06-18,Czech Republic,South Africa,,,FIFA World Cup,Atlanta,United States,True,21482,0,67,248,5.0,2.4,1.6,6.0,1.2,1.6,1,Gana Czech Republic,Empate,❌ Falló
+2026-06-18,Mexico,South Korea,,,FIFA World Cup,Zapopan,Mexico,False,21483,0,171,249,13.0,1.4,0.2,11.0,2.0,0.6,1,Gana Mexico,Empate,❌ Falló
+2026-06-18,Switzerland,Bosnia and Herzegovina,,,FIFA World Cup,Inglewood,United States,True,21484,0,257,34,9.0,1.6,0.6,7.0,1.4,1.0,1,Gana Switzerland,Empate,❌ Falló
+2026-06-18,Canada,Qatar,,,FIFA World Cup,Vancouver,Canada,False,21485,0,45,212,9.0,2.2,0.6,5.0,0.8,1.4,1,Gana Canada,Empate,❌ Falló
+2026-06-19,Scotland,Morocco,,,FIFA World Cup,Foxborough,United States,True,21486,0,234,178,12.0,2.4,1.4,11.0,1.4,0.2,1,Gana Scotland,Empate,❌ Falló
+2026-06-19,Brazil,Haiti,,,FIFA World Cup,Philadelphia,United States,True,21487,0,36,115,7.0,1.4,1.0,9.0,1.2,0.8,1,Gana Brazil,Empate,❌ Falló
+2026-06-19,United States,Australia,,,FIFA World Cup,Seattle,United States,False,21488,0,284,16,10.0,2.2,1.4,15.0,2.4,0.4,0,Empate,Empate,✅ Acertó
+2026-06-19,Turkey,Paraguay,,,FIFA World Cup,Santa Clara,United States,True,21489,0,275,204,10.0,1.2,0.8,5.0,0.8,1.4,1,Gana Turkey,Empate,❌ Falló
+2026-06-20,Germany,Ivory Coast,,,FIFA World Cup,Toronto,Canada,True,21490,0,99,131,15.0,4.0,0.2,10.0,2.0,1.2,1,Gana Germany,Empate,❌ Falló
+2026-06-20,Ecuador,Curaçao,,,FIFA World Cup,Kansas City,United States,True,21491,0,77,65,6.0,0.2,0.2,4.0,1.8,2.8,0,Empate,Empate,✅ Acertó
+2026-06-20,Netherlands,Sweden,,,FIFA World Cup,Houston,United States,True,21492,0,183,256,11.0,3.0,0.6,10.0,2.6,1.8,1,Gana Netherlands,Empate,❌ Falló
+2026-06-20,Tunisia,Japan,,,FIFA World Cup,Guadalupe,Mexico,True,21493,0,274,133,5.0,1.6,2.2,11.0,2.4,1.2,0,Empate,Empate,✅ Acertó
+2026-06-21,Belgium,Iran,,,FIFA World Cup,Inglewood,United States,True,21494,0,26,124,8.0,3.0,0.75,5.0,0.75,0.25,1,Gana Belgium,Empate,❌ Falló
+2026-06-21,New Zealand,Egypt,,,FIFA World Cup,Vancouver,Canada,True,21495,0,185,78,3.0,1.25,1.75,7.0,1.5,1.0,1,Gana New Zealand,Empate,❌ Falló
+2026-06-21,Spain,Saudi Arabia,,,FIFA World Cup,Atlanta,United States,True,21496,0,252,233,10.0,3.0,0.5,6.0,1.25,1.0,1,Gana Spain,Empate,❌ Falló
+2026-06-21,Uruguay,Cape Verde,,,FIFA World Cup,Miami Gardens,United States,True,21497,0,286,46,7.0,1.25,0.5,3.0,1.0,1.5,1,Gana Uruguay,Empate,❌ Falló
+2026-06-22,France,Iraq,,,FIFA World Cup,Philadelphia,United States,True,21498,0,92,125,10.0,3.0,0.75,6.0,1.0,1.0,1,Gana France,Empate,❌ Falló
+2026-06-22,Norway,Senegal,,,FIFA World Cup,East Rutherford,United States,True,21499,0,194,236,12.0,6.0,0.75,9.0,1.25,1.0,1,Gana Norway,Empate,❌ Falló
+2026-06-22,Argentina,Austria,,,FIFA World Cup,Arlington,United States,True,21500,0,12,17,7.0,1.25,0.5,7.0,3.25,0.5,0,Empate,Empate,✅ Acertó
+2026-06-22,Jordan,Algeria,,,FIFA World Cup,Santa Clara,United States,True,21501,0,135,4,9.0,1.75,0.75,9.0,1.25,0.75,1,Gana Jordan,Empate,❌ Falló
+2026-06-23,Portugal,Uzbekistan,,,FIFA World Cup,Houston,United States,True,21502,0,209,287,7.0,3.0,1.25,8.0,1.25,0.25,1,Gana Portugal,Empate,❌ Falló
+2026-06-23,Colombia,DR Congo,,,FIFA World Cup,Zapopan,Mexico,True,21503,0,55,69,8.0,2.5,1.0,7.0,1.25,0.5,1,Gana Colombia,Empate,❌ Falló
+2026-06-23,England,Ghana,,,FIFA World Cup,Foxborough,United States,True,21504,0,81,100,12.0,3.5,0.0,9.0,1.75,0.5,1,Gana England,Empate,❌ Falló
+2026-06-23,Panama,Croatia,,,FIFA World Cup,Toronto,Canada,True,21505,0,201,63,10.0,2.0,0.75,10.0,2.25,0.75,1,Gana Panama,Empate,❌ Falló
+2026-06-24,Mexico,Czech Republic,,,FIFA World Cup,Mexico City,Mexico,False,21506,0,171,67,12.0,1.75,0.25,5.0,2.75,1.5,1,Gana Mexico,Empate,❌ Falló
+2026-06-24,South Africa,South Korea,,,FIFA World Cup,Guadalupe,Mexico,True,21507,0,248,249,3.0,1.0,1.75,10.0,2.25,0.5,0,Empate,Empate,✅ Acertó
+2026-06-24,Canada,Switzerland,,,FIFA World Cup,Vancouver,Canada,False,21508,0,45,257,6.0,1.25,0.75,6.0,1.5,0.75,1,Gana Canada,Empate,❌ Falló
+2026-06-24,Bosnia and Herzegovina,Qatar,,,FIFA World Cup,Seattle,United States,True,21509,0,34,212,4.0,1.0,1.0,2.0,0.5,1.5,1,Gana Bosnia and Herzegovina,Empate,❌ Falló
+2026-06-24,Scotland,Brazil,,,FIFA World Cup,Miami Gardens,United States,True,21510,0,234,36,9.0,2.25,1.5,4.0,1.5,1.25,1,Gana Scotland,Empate,❌ Falló
+2026-06-24,Morocco,Haiti,,,FIFA World Cup,Atlanta,United States,True,21511,0,178,115,8.0,1.5,0.25,6.0,0.75,1.0,1,Gana Morocco,Empate,❌ Falló
+2026-06-25,United States,Turkey,,,FIFA World Cup,Inglewood,United States,False,21512,0,284,275,7.0,2.25,1.5,7.0,1.0,1.0,1,Gana United States,Empate,❌ Falló
+2026-06-25,Paraguay,Australia,,,FIFA World Cup,Santa Clara,United States,True,21513,0,204,16,5.0,1.0,1.5,12.0,2.75,0.5,0,Empate,Empate,✅ Acertó
+2026-06-25,Curaçao,Ivory Coast,,,FIFA World Cup,Philadelphia,United States,True,21514,0,65,131,1.0,0.5,3.5,9.0,2.25,1.25,0,Empate,Empate,✅ Acertó
+2026-06-25,Ecuador,Germany,,,FIFA World Cup,East Rutherford,United States,True,21515,0,77,99,5.0,0.25,0.25,12.0,4.0,0.25,2,Gana Germany,Empate,❌ Falló
+2026-06-25,Japan,Sweden,,,FIFA World Cup,Arlington,United States,True,21516,0,133,256,10.0,2.5,1.0,10.0,3.0,1.25,1,Gana Japan,Empate,❌ Falló
+2026-06-25,Tunisia,Netherlands,,,FIFA World Cup,Kansas City,United States,True,21517,0,274,183,2.0,1.25,2.5,8.0,2.75,0.75,0,Empate,Empate,✅ Acertó
+2026-06-26,Egypt,Iran,,,FIFA World Cup,Seattle,United States,True,21518,0,78,124,4.0,1.0,1.0,5.0,1.0,0.0,1,Gana Egypt,Empate,❌ Falló
+2026-06-26,New Zealand,Belgium,,,FIFA World Cup,Vancouver,Canada,True,21519,0,185,26,3.0,1.6666666666666667,2.0,7.0,4.0,1.0,2,Gana Belgium,Empate,❌ Falló
+2026-06-26,Cape Verde,Saudi Arabia,,,FIFA World Cup,Houston,United States,True,21520,0,46,233,2.0,1.3333333333333333,2.0,3.0,0.6666666666666666,1.0,1,Gana Cape Verde,Empate,❌ Falló
+2026-06-26,Uruguay,Spain,,,FIFA World Cup,Zapopan,Mexico,True,21521,0,286,252,7.0,1.6666666666666667,0.0,7.0,3.3333333333333335,0.6666666666666666,1,Gana Uruguay,Empate,❌ Falló
+2026-06-26,Norway,France,,,FIFA World Cup,Foxborough,United States,True,21522,0,194,92,9.0,4.333333333333333,0.6666666666666666,7.0,3.0,1.0,1,Gana Norway,Empate,❌ Falló
+2026-06-26,Senegal,Iraq,,,FIFA World Cup,Toronto,Canada,True,21523,0,236,125,6.0,0.6666666666666666,1.0,3.0,0.6666666666666666,1.3333333333333333,0,Empate,Empate,✅ Acertó
+2026-06-27,Algeria,Austria,,,FIFA World Cup,Kansas City,United States,True,21524,0,4,17,6.0,1.3333333333333333,1.0,4.0,1.0,0.6666666666666666,1,Gana Algeria,Empate,❌ Falló
+2026-06-27,Jordan,Argentina,,,FIFA World Cup,Arlington,United States,True,21525,0,135,12,6.0,1.3333333333333333,1.0,4.0,1.3333333333333333,0.6666666666666666,1,Gana Jordan,Empate,❌ Falló
+2026-06-27,Colombia,Portugal,,,FIFA World Cup,Miami Gardens,United States,True,21526,0,55,209,7.0,3.3333333333333335,1.3333333333333333,4.0,3.6666666666666665,1.6666666666666667,1,Gana Colombia,Empate,❌ Falló
+2026-06-27,DR Congo,Uzbekistan,,,FIFA World Cup,Atlanta,United States,True,21527,0,69,287,6.0,1.3333333333333333,0.3333333333333333,5.0,1.0,0.3333333333333333,1,Gana DR Congo,Empate,❌ Falló
+2026-06-27,Panama,England,,,FIFA World Cup,East Rutherford,United States,True,21528,0,201,81,7.0,2.3333333333333335,1.0,9.0,3.0,0.0,1,Gana Panama,Empate,❌ Falló
+2026-06-27,Croatia,Ghana,,,FIFA World Cup,Philadelphia,United States,True,21529,0,63,100,9.0,3.0,1.0,6.0,2.0,0.6666666666666666,1,Gana Croatia,Empate,❌ Falló
